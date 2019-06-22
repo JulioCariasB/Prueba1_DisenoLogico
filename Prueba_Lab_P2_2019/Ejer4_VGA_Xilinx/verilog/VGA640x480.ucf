@@ -1,0 +1,3 @@
+# TODO: Map the VGA protocol pins (red, green, blue, hsync and vsync)
+# TODO: Map the reset pin to board push button
+# TODO: Map the clock signal to the Board 100MHz oscillator

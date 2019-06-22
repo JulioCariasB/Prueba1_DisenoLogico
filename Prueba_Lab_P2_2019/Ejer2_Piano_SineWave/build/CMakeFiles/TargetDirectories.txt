@@ -1,0 +1,3 @@
+/home/ideras/classes/Disenio_Logico_Digital/P2_2019/Pruebas/Prueba_Lab_P2_2019/Ejer2_Piano/build/CMakeFiles/rebuild_cache.dir
+/home/ideras/classes/Disenio_Logico_Digital/P2_2019/Pruebas/Prueba_Lab_P2_2019/Ejer2_Piano/build/CMakeFiles/test_piano.dir
+/home/ideras/classes/Disenio_Logico_Digital/P2_2019/Pruebas/Prueba_Lab_P2_2019/Ejer2_Piano/build/CMakeFiles/edit_cache.dir
